@@ -3,12 +3,7 @@ import pandas as pd
 import numpy as np
 
 
-from PIL import Image
-test_image = Image.open(r'C:\Users\njvdb\projects\biz_analytics_a_new_app\src\app\test.jpg')
-st.image(test_image, caption= "Kraftwerk im Sonnenuntergang")
-
-
-st.title('Vorhersage der deutschen CO2-Emissionen')
+st.title('Vorhersage der deutschen CO2-Emissionen - NEU')
 
 "Autor: Dimitri Bennhäuser (https://github.com/dimitribenn)"
 
